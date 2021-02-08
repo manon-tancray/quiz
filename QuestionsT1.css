@@ -1,0 +1,49 @@
+body{
+  background: #8f8e8e;
+
+}
+
+h1 /*Positionnement et police du titre*/
+{
+    text-align: center;
+    margin-top: 50px;
+    color:white;
+}
+
+.bouton3 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.button
+{
+    font-size: 18px;
+    border: 2px solid transparent;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+	  background:  #f26522;
+    margin-left: 240px;
+    margin-top: 100px;
+    width: 25%;
+    height: 50px;
+  
+  }
+
+.button:focus
+{
+    font-size: 18px;
+    border: 2px solid transparent;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    background-color: #22e4f2;
+}
+
+img {
+  width: 300px;
+  height: 150px;
+  margin-left: 580px;
+  margin-top: 80px;
+  border-radius: 7px;
+}
