@@ -1,0 +1,87 @@
+@font-face
+{
+  font-family: 'MOI';
+  src: url('MINECRAFT\ PE.ttf') format('truetype');
+  font-weight:normal;
+  font-style: normal;
+
+}
+body {
+  background-color: gray;
+}
+
+h1 /*Positionnement et police du titre*/
+{
+    text-align: center;
+    margin-top: 50px;
+    color:rgb(255, 255, 255);
+    font-size: 600%;
+    font-family: 'MOI',Arial, Helvetica, sans-serif;
+}
+
+.text1 {
+  color: white;
+  border: 1px solid;
+  border-radius: 20px;
+  border-color:  rgb(255, 255, 255);
+  background: linear-gradient(to top, rgb(0, 238, 255), rgb(0, 102, 255)); 
+  padding-left: 125px;
+  padding-right: 125px;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  position: absolute;
+  left: 13%;
+  top: 22%;
+  font-size: 200%;
+
+  
+}
+
+.text2 {
+  color: white;
+  border: 1px solid;
+  border-radius: 20px;
+  border-color:  rgb(255, 255, 255);
+  background: linear-gradient(to top, rgb(94, 255, 0), rgba(22, 190, 36, 0.644)); 
+  padding-left: 125px;
+  padding-right: 125px;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  position: absolute;
+  left: 65%;
+  top: 210px;
+  font-size: 200%;
+
+}
+
+.text3 {
+  color: white;
+  border: 1px solid;
+  border-radius: 20px;
+  border-color:  rgb(255, 255, 255);
+  background: linear-gradient(to top, rgb(255, 136, 0), rgb(217, 255, 0)); 
+  padding-left: 125px;
+  padding-right: 125px;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  position: absolute;
+  left: 13%;
+  top: 60%;
+  font-size: 200%;
+}
+
+.text4 {
+  color: white;
+  border: 1px solid;
+  border-radius: 20px;
+  border-color:  rgb(255, 255, 255);
+  background: linear-gradient(to top, rgba(65, 6, 88, 0.658), rgb(218, 156, 236)); 
+  padding-left: 125px;
+  padding-right: 125px;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  position: absolute;
+  left: 65%;
+  top: 60%;
+  font-size: 200%;
+}

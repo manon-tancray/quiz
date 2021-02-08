@@ -1,0 +1,12 @@
+body{
+  background: #8f8e8e;
+
+}
+
+h1 /*Positionnement et police du titre*/
+{
+    text-align: center;
+    margin-top: 280px;
+    color:white;
+    font-size: 100px;
+}
